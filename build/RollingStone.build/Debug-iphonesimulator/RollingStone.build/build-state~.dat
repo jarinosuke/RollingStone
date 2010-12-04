@@ -1,0 +1,1656 @@
+TRollingStone
+v7
+r0
+t313138875.730522
+cCheck dependencies
+cProcessInfoPlistFile /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Info.plist Resources/Info.plist
+cCpResource build/Debug-iphonesimulator/RollingStone.app/Default.png Resources/Default.png
+cCpResource build/Debug-iphonesimulator/RollingStone.app/fps_images.png Resources/fps_images.png
+cCpResource build/Debug-iphonesimulator/RollingStone.app/Icon.png Resources/Icon.png
+cCpResource build/Debug-iphonesimulator/RollingStone.app/Icon@2x.png Resources/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/RollingStone.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/RollingStone.app/Icon-Small.png Resources/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/RollingStone.app/Icon-Small-50.png Resources/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/RollingStone.app/Icon-72.png Resources/Icon-72.png
+cCpResource build/Debug-iphonesimulator/RollingStone.app/iTunesArtwork Resources/iTunesArtwork
+cCopyPlistFile /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/RollingStone.plist Resources/RollingStone.plist
+cCpResource build/Debug-iphonesimulator/RollingStone.app/RollingStone.png Resources/RollingStone.png
+cProcessPCH /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch.gch RollingStone_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/main.o /Users/jari/Desktop/RollingStone/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/RollingStoneAppDelegate.o /Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/RootViewController.o /Users/jari/Desktop/RollingStone/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyButton.o /Users/jari/Desktop/RollingStone/Classes/SneakyButton.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyButtonSkinnedBase.o /Users/jari/Desktop/RollingStone/Classes/SneakyButtonSkinnedBase.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyExtensions.o /Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyJoystick.o /Users/jari/Desktop/RollingStone/Classes/SneakyJoystick.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyJoystickSkinnedBase.o /Users/jari/Desktop/RollingStone/Classes/SneakyJoystickSkinnedBase.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SpriteBatchesAppDelegate.o /Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/Stone.o /Users/jari/Desktop/RollingStone/Classes/Stone.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/GameScene.o /Users/jari/Desktop/RollingStone/Classes/GameScene.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/InputLayer.o /Users/jari/Desktop/RollingStone/Classes/InputLayer.m normal i386 objective-c com.apple.compilers.llvmgcc42
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC121DB00000000000022F0
+t1287725531
+s8944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004CC121DB0000000000002650
+t1287725531
+s9808
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC1226400000000000246A0
+t1287725668
+s149152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC123080000000000000A61
+t1287725832
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/inttypes.h
+c000000004CB3E48600000000000027D1
+t1286857862
+s10193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/objc/objc.h
+c000000004CB935700000000000000A2F
+t1287206256
+s2607
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stddef.h
+c000000004CB3E4860000000000001404
+t1286857862
+s5124
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/time.h
+c000000004CBFACAC0000000000001E17
+t1287629996
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libz.dylib
+c000000004CC109C300000000000123B0
+t1287719363
+s74672
+
+N/Users/jari/Desktop/RollingStone/Classes/GameConfig.h
+c000000004CF9DE7B000000000000021D
+t1291443835
+s541
+
+N/Users/jari/Desktop/RollingStone/Classes/GameScene.h
+c000000004CF9E57E00000000000001FD
+t1291445630
+s509
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"ParallaxBackground.h"
+i"Stone.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/GameScene.m
+c000000004CF9E5DE0000000000000606
+t1291445726
+s1542
+i"GameScene.h"
+i"Stone.h"
+i"InputLayer.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/HelloWorldScene.h
+c000000004CF9DE7B0000000000000171
+t1291443835
+s369
+i"cocos2d.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/HelloWorldScene.m
+c000000004CF9DE7B00000000000005D2
+t1291443835
+s1490
+i"HelloWorldScene.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/InputLayer.h
+c000000004CF9E5F90000000000000220
+t1291445753
+s544
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"ColoredCircleSprite.h"
+i"SneakyButton.h"
+i"SneakyButtonSkinnedBase.h"
+i"SneakyJoystick.h"
+i"SneakyJoystickSkinnedBase.h"
+i"SneakyExtensions.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/InputLayer.m
+c000000004CF9E71B0000000000000A3E
+t1291446043
+s2622
+i"InputLayer.h"
+i"GameScene.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.h
+c000000004CF9DE7B0000000000000184
+t1291443835
+s388
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m
+c000000004CF9DE7B000000000000114D
+t1291443835
+s4429
+i"cocos2d.h"
+i"RollingStoneAppDelegate.h"
+i"GameConfig.h"
+i"HelloWorldScene.h"
+i"RootViewController.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/RootViewController.h
+c000000004CF9DE7B00000000000000E5
+t1291443835
+s229
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/RollingStone/Classes/RootViewController.m
+c000000004CF9DE7B0000000000001139
+t1291443835
+s4409
+i"cocos2d.h"
+i"RootViewController.h"
+i"GameConfig.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/SneakyButton.h
+c000000004B960A4A0000000000000362
+t1268124234
+s866
+i"cocos2d.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/SneakyButton.m
+c000000004B960A4A0000000000000A87
+t1268124234
+s2695
+i"SneakyButton.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/SneakyButtonSkinnedBase.h
+c000000004B960A4A0000000000000290
+t1268124234
+s656
+i"cocos2d.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/SneakyButtonSkinnedBase.m
+c000000004B960A4A0000000000000BE9
+t1268124234
+s3049
+i"SneakyButtonSkinnedBase.h"
+i"SneakyButton.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.h
+c000000004C6413E400000000000002BD
+t1281627108
+s701
+i<Foundation/Foundation.h>
+i"ColoredCircleSprite.h"
+i"SneakyButton.h"
+i"SneakyButtonSkinnedBase.h"
+i"SneakyJoystick.h"
+i"SneakyJoystickSkinnedBase.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.m
+c000000004C6413E4000000000000036D
+t1281627108
+s877
+i"SneakyExtensions.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/SneakyJoystick.h
+c000000004B960A4A000000000000063E
+t1268124234
+s1598
+i"cocos2d.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/SneakyJoystick.m
+c000000004B960A4A0000000000000FE4
+t1268124234
+s4068
+i"SneakyJoystick.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/SneakyJoystickSkinnedBase.h
+c000000004B960A4A0000000000000218
+t1268124234
+s536
+i"cocos2d.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/SneakyJoystickSkinnedBase.m
+c000000004B960A4A00000000000007FF
+t1268124234
+s2047
+i"SneakyJoystickSkinnedBase.h"
+i"SneakyJoystick.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.h
+c000000004C595FEE0000000000000152
+t1280925678
+s338
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m
+c000000004C5B12BA00000000000009A9
+t1281036986
+s2473
+i"SpriteBatchesAppDelegate.h"
+i"cocos2d.h"
+i"GameScene.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/Stone.h
+c000000004CF9E1CD00000000000000E4
+t1291444685
+s228
+i<Cocoa/Cocoa.h>
+i"cocos2d.h"
+
+N/Users/jari/Desktop/RollingStone/Classes/Stone.m
+c000000004CF9E3D800000000000006EB
+t1291445208
+s1771
+i"Stone.h"
+
+N/Users/jari/Desktop/RollingStone/Resources/Default.png
+c000000004CF9DE7B00000000000077AB
+t1291443835
+s30635
+
+N/Users/jari/Desktop/RollingStone/Resources/Icon-72.png
+c000000004CF9DE7B0000000000002C96
+t1291443835
+s11414
+
+N/Users/jari/Desktop/RollingStone/Resources/Icon-Small-50.png
+c000000004CF9DE7B0000000000001F2B
+t1291443835
+s7979
+
+N/Users/jari/Desktop/RollingStone/Resources/Icon-Small.png
+c000000004CF9DE7B000000000000135C
+t1291443835
+s4956
+
+N/Users/jari/Desktop/RollingStone/Resources/Icon-Small@2x.png
+c000000004CF9DE7B00000000000024F9
+t1291443835
+s9465
+
+N/Users/jari/Desktop/RollingStone/Resources/Icon.png
+c000000004CF9DE7B000000000000246F
+t1291443835
+s9327
+
+N/Users/jari/Desktop/RollingStone/Resources/Icon@2x.png
+c000000004CF9DE7B0000000000005375
+t1291443835
+s21365
+
+N/Users/jari/Desktop/RollingStone/Resources/RollingStone.plist
+c000000004CF9E08A000000000000050D
+t1291444362
+s1293
+
+N/Users/jari/Desktop/RollingStone/Resources/RollingStone.png
+c000000004CF9E08A0000000000001159
+t1291444362
+s4441
+
+N/Users/jari/Desktop/RollingStone/Resources/fps_images.png
+c000000004CF9DE7B000000000000183B
+t1291443835
+s6203
+
+N/Users/jari/Desktop/RollingStone/Resources/iTunesArtwork
+c000000004CF9DE7B000000000000F21E
+t1291443835
+s61982
+
+N/Users/jari/Desktop/RollingStone/Resources/joystick-sheet.png
+c000000004CF9DC050000000000000885
+t1291443205
+s2181
+
+N/Users/jari/Desktop/RollingStone/Resources/joystick-stick.png
+c000000004CF9DBD9000000000000029F
+t1291443161
+s671
+
+N/Users/jari/Desktop/RollingStone/Resources/stone.png
+c000000004CF9DDB20000000000000285
+t1291443634
+s645
+
+N/Users/jari/Desktop/RollingStone/RollingStone_Prefix.pch
+c000000004CF9DE7B00000000000000BB
+t1291443835
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app.dSYM
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Default.png
+t1291446072
+s30635
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Icon-72.png
+t1291446072
+s11414
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Icon-Small-50.png
+t1291446072
+s7979
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Icon-Small.png
+t1291446072
+s4956
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Icon-Small@2x.png
+t1291446072
+s9465
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Icon.png
+t1291446072
+s9327
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Icon@2x.png
+t1291446072
+s21365
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Info.plist
+t1291446072
+s840
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/PkgInfo
+t1291446072
+s8
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/RollingStone
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/RollingStone.plist
+t1291446073
+s464
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/RollingStone.png
+t1291446072
+s4441
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/fps_images.png
+t1291446072
+s6203
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/iTunesArtwork
+t1291446072
+s61982
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/joystick-sheet.png
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/joystick-stick.png
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/stone.png
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/libcocos2d libraries.a
+c000000004CF9E73800000000003BFD58
+t1291446072
+s3931480
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/GameScene.o
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/HelloWorldScene.o
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/InputLayer.o
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/RollingStone.LinkFileList
+c000000004CF9E738000000000000066F
+t1291446072
+s1647
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/RollingStoneAppDelegate.o
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/RootViewController.o
+t1291446074
+s43320
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyButton.o
+t1291446074
+s57920
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyButtonSkinnedBase.o
+t1291446074
+s25816
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyExtensions.o
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyJoystick.o
+t1291446075
+s63340
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyJoystickSkinnedBase.o
+t1291446075
+s20860
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SpriteBatchesAppDelegate.o
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/Stone.o
+t2
+s0
+
+N/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/main.o
+t1291446074
+s3196
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCAction.h
+c000000004CF9DE7B000000000000167A
+t1291443835
+s5754
+i<sys/time.h>
+i<Foundation/Foundation.h>
+i"ccTypes.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCActionCamera.h
+c000000004CF9DE7B00000000000009BD
+t1291443835
+s2493
+i"CCActionInterval.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCActionEase.h
+c000000004CF9DE7B0000000000001671
+t1291443835
+s5745
+i"CCActionInterval.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCActionGrid.h
+c000000004CF9DE7B000000000000148F
+t1291443835
+s5263
+i"CCActionInterval.h"
+i"CCActionInstant.h"
+i"CCGrid.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCActionGrid3D.h
+c000000004CF9DE7B0000000000001A8A
+t1291443835
+s6794
+i"CCActionGrid.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCActionInstant.h
+c000000004CF9DE7B00000000000011DC
+t1291443835
+s4572
+i"CCAction.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCActionInterval.h
+c000000004CF9DE7B0000000000003268
+t1291443835
+s12904
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCActionManager.h
+c000000004CF9DE7B0000000000001072
+t1291443835
+s4210
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCActionPageTurn3D.h
+c000000004CF9DE7B0000000000000644
+t1291443835
+s1604
+i"CCActionGrid3D.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCActionProgressTimer.h
+c000000004CF9DE7B000000000000088D
+t1291443835
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCActionInterval.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCActionTiledGrid.h
+c000000004CF9DE7B0000000000001A15
+t1291443835
+s6677
+i"CCActionGrid.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCActionTween.h
+c000000004CF9DE7B0000000000000932
+t1291443835
+s2354
+i<Foundation/Foundation.h>
+i"CCActionInterval.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCAnimation.h
+c000000004CF9DE7B000000000000126D
+t1291443835
+s4717
+i<Foundation/Foundation.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCAnimationCache.h
+c000000004CF9DE7B00000000000008DE
+t1291443835
+s2270
+i<Foundation/Foundation.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCAtlasNode.h
+c000000004CF9DE7B0000000000000C07
+t1291443835
+s3079
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCBlockSupport.h
+c000000004CF9DE7B000000000000066F
+t1291443835
+s1647
+i<Foundation/Foundation.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCCamera.h
+c000000004CF9DE7B0000000000000B48
+t1291443835
+s2888
+i"CCNode.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCCompatibility.h
+c000000004CF9DE7B0000000000003891
+t1291443835
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCConfiguration.h
+c000000004CF9DE7B0000000000000D36
+t1291443835
+s3382
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCDirector.h
+c000000004CF9DE7B00000000000025C4
+t1291443835
+s9668
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCDrawingPrimitives.h
+c000000004CF9DE7B0000000000000C32
+t1291443835
+s3122
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCGrabber.h
+c000000004CF9DE7B00000000000005E4
+t1291443835
+s1508
+i"Platforms/CCGL.h"
+i<Foundation/Foundation.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCGrid.h
+c000000004CF9DE7B0000000000000E5A
+t1291443835
+s3674
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCLabelAtlas.h
+c000000004CF9DE7C0000000000000B25
+t1291443836
+s2853
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCLabelBMFont.h
+c000000004CF9DE7C0000000000001641
+t1291443836
+s5697
+i"CCSpriteBatchNode.h"
+i"Support/uthash.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCLabelTTF.h
+c000000004CF9DE7C0000000000000A87
+t1291443836
+s2695
+i"CCTexture2D.h"
+i"CCSprite.h"
+i"Platforms/CCNS.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCLayer.h
+c000000004CF9DE7C00000000000018C6
+t1291443836
+s6342
+i<Availability.h>
+i<UIKit/UIKit.h>
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/Mac/CCEventDispatcher.h"
+i"CCProtocols.h"
+i"CCNode.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCMenu.h
+c000000004CF9DE7C0000000000000B29
+t1291443836
+s2857
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCMenuItem.h
+c000000004CF9DE7C00000000000033A8
+t1291443836
+s13224
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCMotionStreak.h
+c000000004CF9DE7C0000000000000B2A
+t1291443836
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCNode.h
+c000000004CF9DE7C0000000000004449
+t1291443836
+s17481
+i<Availability.h>
+i"Platforms/CCGL.h"
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCParallaxNode.h
+c000000004CF9DE7C000000000000075D
+t1291443836
+s1885
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCParticleExamples.h
+c000000004CF9DE7C0000000000000AD0
+t1291443836
+s2768
+i<Availability.h>
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCParticleSystem.h
+c000000004CF9DE7C00000000000037B8
+t1291443836
+s14264
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCParticleSystemPoint.h
+c000000004CF9DE7C0000000000000778
+t1291443836
+s1912
+i"CCParticleSystem.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCParticleSystemQuad.h
+c000000004CF9DE7C00000000000009D3
+t1291443836
+s2515
+i"CCParticleSystem.h"
+i"ccConfig.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCProgressTimer.h
+c000000004CF9DE7C0000000000000B48
+t1291443836
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCProtocols.h
+c000000004CF9DE7C0000000000000F9A
+t1291443836
+s3994
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCRenderTexture.h
+c000000004CF9DE7C0000000000000F2A
+t1291443836
+s3882
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCRibbon.h
+c000000004CF9DE7C0000000000000FCD
+t1291443836
+s4045
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"Platforms/CCGL.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCScene.h
+c000000004CF9DE7C0000000000000677
+t1291443836
+s1655
+i"CCNode.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCScheduler.h
+c000000004CF9DE7C00000000000019D7
+t1291443836
+s6615
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCSprite.h
+c000000004CF9DE7C00000000000033E8
+t1291443836
+s13288
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCSpriteBatchNode.h
+c000000004CF9DE7C00000000000018F8
+t1291443836
+s6392
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCSpriteFrame.h
+c000000004CF9DE7C0000000000000D5A
+t1291443836
+s3418
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCSpriteFrameCache.h
+c000000004CF9DE7C00000000000012B5
+t1291443836
+s4789
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCSpriteSheet.h
+c000000004CF9DE7C00000000000009FE
+t1291443836
+s2558
+i"CCSpriteBatchNode.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTMXLayer.h
+c000000004CF9DE7C000000000000182A
+t1291443836
+s6186
+i"CCAtlasNode.h"
+i"CCSpriteBatchNode.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTMXObjectGroup.h
+c000000004CF9DE7C00000000000008D5
+t1291443836
+s2261
+i"CCSpriteSheet.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTMXTiledMap.h
+c000000004CF9DE7C00000000000014D4
+t1291443836
+s5332
+i"CCSpriteSheet.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTMXXMLParser.h
+c000000004CF9DE7C00000000000016B9
+t1291443836
+s5817
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTexture2D.h
+c000000004CF9DE7C0000000000002C26
+t1291443836
+s11302
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTextureAtlas.h
+c000000004CF9DE7C000000000000145B
+t1291443836
+s5211
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTextureCache.h
+c000000004CF9DE7C00000000000014C2
+t1291443836
+s5314
+i<Availability.h>
+i<CoreGraphics/CGImage.h>
+i<Foundation/Foundation.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTexturePVR.h
+c000000004CF9DE7C0000000000000DA0
+t1291443836
+s3488
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"CCTextureCache.h"
+i"CCTexture2D.h"
+i"ccCArray.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTileMapAtlas.h
+c000000004CF9DE7C0000000000000B86
+t1291443836
+s2950
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTransition.h
+c000000004CF9DE7C0000000000002134
+t1291443836
+s8500
+i"CCScene.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTransitionPageTurn.h
+c000000004CF9DE7C0000000000000917
+t1291443836
+s2327
+i"CCTransition.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/CCTransitionRadial.h
+c000000004CF9DE7C0000000000000630
+t1291443836
+s1584
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCActionProgressTimer.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/CCGL.h
+c000000004CF9DE7C0000000000000BF8
+t1291443836
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/CCNS.h
+c000000004CF9DE7C0000000000000965
+t1291443836
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+c000000004CF9DE7C00000000000008D9
+t1291443836
+s2265
+i<Availability.h>
+i<QuartzCore/CVDisplayLink.h>
+i"../../CCDirector.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+c000000004CF9DE7C0000000000001A06
+t1291443836
+s6662
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"MacGLView.h"
+i"../../Support/uthash.h"
+i"../../Support/utlist.h"
+i"../../ccConfig.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004CF9DE7C0000000000000ACF
+t1291443836
+s2767
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004CF9DE7C0000000000002B53
+t1291443836
+s11091
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+c000000004CF9DE7C0000000000000BC3
+t1291443836
+s3011
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+c000000004CF9DE7C00000000000010CA
+t1291443836
+s4298
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"EAGLView.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+c000000004CF9DE7C0000000000000D99
+t1291443836
+s3481
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004CF9DE7C0000000000001B69
+t1291443836
+s7017
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004CF9DE7C000000000000083A
+t1291443836
+s2106
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Platforms/iOS/glu.h
+c000000004CF9DE7C000000000000030D
+t1291443836
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Support/CCArray.h
+c000000004CF9DE7C0000000000000BD7
+t1291443836
+s3031
+i"ccCArray.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Support/CCFileUtils.h
+c000000004CF9DE7C0000000000000748
+t1291443836
+s1864
+i<Foundation/Foundation.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Support/CCProfiling.h
+c000000004CF9DE7C00000000000006E9
+t1291443836
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Support/CGPointExtension.h
+c000000004CF9DE7C0000000000001EAB
+t1291443836
+s7851
+i<Availability.h>
+i<CoreGraphics/CGGeometry.h>
+i<Foundation/Foundation.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004CF9DE7C00000000000011A7
+t1291443836
+s4519
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Support/TGAlib.h
+c000000004CF9DE7C0000000000000444
+t1291443836
+s1092
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Support/ccCArray.h
+c000000004CF9DE7C00000000000030F3
+t1291443836
+s12531
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Support/ccUtils.h
+c000000004CF9DE7C0000000000000204
+t1291443836
+s516
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Support/uthash.h
+c000000004CF9DE7C000000000000FB13
+t1291443836
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/Support/utlist.h
+c000000004CF9DE7C0000000000009091
+t1291443836
+s37009
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/ccConfig.h
+c000000004CF9DE7C00000000000025C7
+t1291443836
+s9671
+i<Availability.h>
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/ccMacros.h
+c000000004CF9DE7C0000000000001CB9
+t1291443836
+s7353
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/ccTypes.h
+c000000004CF9DE7C00000000000016C0
+t1291443836
+s5824
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Users/jari/Desktop/RollingStone/libs/cocos2d/cocos2d.h
+c000000004CF9DE7C00000000000010FF
+t1291443836
+s4351
+i<Availability.h>
+i"ccConfig.h"
+i"CCActionManager.h"
+i"CCAction.h"
+i"CCActionInstant.h"
+i"CCActionInterval.h"
+i"CCActionEase.h"
+i"CCActionCamera.h"
+i"CCActionTween.h"
+i"CCActionEase.h"
+i"CCActionTiledGrid.h"
+i"CCActionGrid3D.h"
+i"CCActionGrid.h"
+i"CCActionProgressTimer.h"
+i"CCActionPageTurn3D.h"
+i"CCAnimation.h"
+i"CCAnimationCache.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteBatchNode.h"
+i"CCSpriteFrameCache.h"
+i"CCLabelTTF.h"
+i"CCLabelBMFont.h"
+i"CCLabelAtlas.h"
+i"CCParticleSystem.h"
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+i"CCParticleExamples.h"
+i"CCTexture2D.h"
+i"CCTexturePVR.h"
+i"CCTextureCache.h"
+i"CCTextureAtlas.h"
+i"CCTransition.h"
+i"CCTransitionPageTurn.h"
+i"CCTransitionRadial.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCBlockSupport.h"
+i"CCCamera.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCAtlasNode.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCParallaxNode.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCConfiguration.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+i"Platforms/iOS/CCTouchDispatcher.h"
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/iOS/CCTouchHandler.h"
+i"Platforms/iOS/EAGLView.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+i"Platforms/Mac/MacGLView.h"
+i"Platforms/Mac/CCDirectorMac.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/ccUtils.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/jari/Desktop/RollingStone/main.m
+c000000004CF9DE7C0000000000000162
+t1291443836
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch.gch
+t1291446074
+s11971792
+
+NResources/Info.plist
+c000000004CF9DE7B0000000000000515
+t1291443835
+s1301
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313138872#313138872#0(0"0(0#1#0"8622743072#0"0#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/GameScene.o /Users/jari/Desktop/RollingStone/Classes/GameScene.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138875.445745
+e313138875.730464
+r0
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/GameScene.o
+x/Users/jari/Desktop/RollingStone/Classes/GameScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.m:10:
+o/Users/jari/Desktop/RollingStone/Classes/GameScene.h:11:31: error: ParallaxBackground.h: No such file or directory
+oIn file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.h:12,
+o                 from /Users/jari/Desktop/RollingStone/Classes/GameScene.m:10:
+o/Users/jari/Desktop/RollingStone/Classes/Stone.h:9:24: error: Cocoa/Cocoa.h: No such file or directory
+oIn file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.m:12:
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.h:14:32: error: ColoredCircleSprite.h: No such file or directory
+o/Users/jari/Desktop/RollingStone/Classes/GameScene.m: In function '-[GameScene init]':
+o/Users/jari/Desktop/RollingStone/Classes/GameScene.m:51: error: request for member 'position' in something not a structure or union
+o/Users/jari/Desktop/RollingStone/Classes/GameScene.m:52: warning: incompatible Objective-C types 'struct Stone *', expected 'struct CCNode *' when passing argument 1 of 'addChild:z:tag:' from distinct Objective-C type
+lSLF07#2@60"Compile /Users/jari/Desktop/RollingStone/Classes/GameScene.m313138875#313138875#0(1088"In file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.m:10:/Users/jari/Desktop/RollingStone/Classes/GameScene.h:11:31: error: ParallaxBackground.h: No such file or directoryIn file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.h:12,                 from /Users/jari/Desktop/RollingStone/Classes/GameScene.m:10:/Users/jari/Desktop/RollingStone/Classes/Stone.h:9:24: error: Cocoa/Cocoa.h: No such file or directoryIn file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.m:12:/Users/jari/Desktop/RollingStone/Classes/InputLayer.h:14:32: error: ColoredCircleSprite.h: No such file or directory/Users/jari/Desktop/RollingStone/Classes/GameScene.m: In function '-[GameScene init]':/Users/jari/Desktop/RollingStone/Classes/GameScene.m:51: error: request for member 'position' in something not a structure or union/Users/jari/Desktop/RollingStone/Classes/GameScene.m:52: warning: incompatible Objective-C types 'struct Stone *', expected 'struct CCNode *' when passing argument 1 of 'addChild:z:tag:' from distinct Objective-C type5(4@47"ParallaxBackground.h: No such file or directory313138875#79#115#2(7@74"In file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.m313138875#18446744073709551615#0#0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.m313138526#10#0#10#0#0"0(13@103"ParallaxBackground.h: No such file or directory in /Users/jari/Desktop/RollingStone/Classes/GameScene.h313138875#18446744073709551615#0#0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.h313138430#11#0#11#0#0"0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.h313138430#11#0#11#0#28"*: No such file or directory0(4@40"Cocoa/Cocoa.h: No such file or directory313138875#352#103#3(7@74"In file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.m313138875#18446744073709551615#0#0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.m313138526#10#0#10#0#0"0(7@74"In file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.h313138875#18446744073709551615#0#0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.h313138430#12#0#12#0#0"0(13@92"Cocoa/Cocoa.h: No such file or directory in /Users/jari/Desktop/RollingStone/Classes/Stone.h313138875#18446744073709551615#0#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.h313137485#9#0#9#0#0"0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.h313137485#9#0#9#0#28"*: No such file or directory0(4@48"ColoredCircleSprite.h: No such file or directory313138875#534#117#2(7@74"In file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.m313138875#18446744073709551615#0#0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.m313138526#12#0#12#0#0"0(13@105"ColoredCircleSprite.h: No such file or directory in /Users/jari/Desktop/RollingStone/Classes/InputLayer.h313138875#18446744073709551615#0#0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.h313138553#14#0#14#0#0"0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.h313138553#14#0#14#0#28"*: No such file or directory0(4@67"Request for member 'position' in something not a structure or union313138875#738#132#0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.m313138526#51#0#51#0#0"0(22@151"Incompatible Objective-C types 'struct Stone *', expected 'struct CCNode *' when passing argument 1 of 'addChild:z:tag:' from distinct Objective-C type313138875#870#218#0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.m313138526#52#0#52#0#0"0(0#0#52"/Users/jari/Desktop/RollingStone/Classes/GameScene.m8626610528#2110"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/Classes/GameScene.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/GameScene.o1#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/HelloWorldScene.o /Users/jari/Desktop/RollingStone/Classes/HelloWorldScene.m normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/InputLayer.o /Users/jari/Desktop/RollingStone/Classes/InputLayer.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138875.450674
+e313138875.730149
+r0
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/InputLayer.o
+x/Users/jari/Desktop/RollingStone/Classes/InputLayer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/jari/Desktop/RollingStone/Classes/InputLayer.m:9:
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.h:14:32: error: ColoredCircleSprite.h: No such file or directory
+oIn file included from /Users/jari/Desktop/RollingStone/Classes/InputLayer.m:10:
+o/Users/jari/Desktop/RollingStone/Classes/GameScene.h:11:31: error: ParallaxBackground.h: No such file or directory
+oIn file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.h:12,
+o                 from /Users/jari/Desktop/RollingStone/Classes/InputLayer.m:10:
+o/Users/jari/Desktop/RollingStone/Classes/Stone.h:9:24: error: Cocoa/Cocoa.h: No such file or directory
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.m: In function '-[InputLayer update:]':
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:87: warning: 'GameScene' may not respond to '-defaultShip'
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:87: warning: (Messages without a matching method signature
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:87: warning: will be assumed to return 'id' and accept
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:87: warning: '...' as arguments.)
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:87: warning: 'GameScene' may not respond to '-shootBulletFromShip:'
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:103: error: request for member 'position' in something not a structure or union
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:103: error: 'ship' undeclared (first use in this function)
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:103: error: (Each undeclared identifier is reported only once
+o/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:103: error: for each function it appears in.)
+lSLF07#2@61"Compile /Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138875#313138875#0(1753"In file included from /Users/jari/Desktop/RollingStone/Classes/InputLayer.m:9:/Users/jari/Desktop/RollingStone/Classes/InputLayer.h:14:32: error: ColoredCircleSprite.h: No such file or directoryIn file included from /Users/jari/Desktop/RollingStone/Classes/InputLayer.m:10:/Users/jari/Desktop/RollingStone/Classes/GameScene.h:11:31: error: ParallaxBackground.h: No such file or directoryIn file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.h:12,                 from /Users/jari/Desktop/RollingStone/Classes/InputLayer.m:10:/Users/jari/Desktop/RollingStone/Classes/Stone.h:9:24: error: Cocoa/Cocoa.h: No such file or directory/Users/jari/Desktop/RollingStone/Classes/InputLayer.m: In function '-[InputLayer update:]':/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:87: warning: 'GameScene' may not respond to '-defaultShip'/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:87: warning: (Messages without a matching method signature/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:87: warning: will be assumed to return 'id' and accept/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:87: warning: '...' as arguments.)/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:87: warning: 'GameScene' may not respond to '-shootBulletFromShip:'/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:103: error: request for member 'position' in something not a structure or union/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:103: error: 'ship' undeclared (first use in this function)/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:103: error: (Each undeclared identifier is reported only once/Users/jari/Desktop/RollingStone/Classes/InputLayer.m:103: error: for each function it appears in.)8(4@48"ColoredCircleSprite.h: No such file or directory313138875#79#117#2(7@75"In file included from /Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138875#18446744073709551615#0#0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138843#9#0#9#0#0"0(13@105"ColoredCircleSprite.h: No such file or directory in /Users/jari/Desktop/RollingStone/Classes/InputLayer.h313138875#18446744073709551615#0#0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.h313138553#14#0#14#0#0"0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.h313138553#14#0#14#0#28"*: No such file or directory0(4@47"ParallaxBackground.h: No such file or directory313138875#276#115#2(7@75"In file included from /Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138875#18446744073709551615#0#0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138843#10#0#10#0#0"0(13@103"ParallaxBackground.h: No such file or directory in /Users/jari/Desktop/RollingStone/Classes/GameScene.h313138875#18446744073709551615#0#0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.h313138430#11#0#11#0#0"0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.h313138430#11#0#11#0#28"*: No such file or directory0(4@40"Cocoa/Cocoa.h: No such file or directory313138875#550#103#3(7@75"In file included from /Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138875#18446744073709551615#0#0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138843#10#0#10#0#0"0(7@74"In file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.h313138875#18446744073709551615#0#0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.h313138430#12#0#12#0#0"0(13@92"Cocoa/Cocoa.h: No such file or directory in /Users/jari/Desktop/RollingStone/Classes/Stone.h313138875#18446744073709551615#0#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.h313137485#9#0#9#0#0"0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.h313137485#9#0#9#0#28"*: No such file or directory0(22@45"'GameScene' may not respond to '-defaultShip'313138875#745#113#0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138843#87#0#87#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)313138875#858#113#0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138843#87#0#87#0#0"0(22@54"'GameScene' may not respond to '-shootBulletFromShip:'313138875#1168#122#0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138843#87#0#87#0#26"'*' may not respond to '*'0(4@67"Request for member 'position' in something not a structure or union313138875#1290#134#0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138843#103#0#103#0#0"0(4@46"'ship' undeclared (first use in this function)313138875#1424#113#0(6@53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.m313138843#103#0#103#0#43"'*' undeclared (first use in this function)0(0#0#53"/Users/jari/Desktop/RollingStone/Classes/InputLayer.m8625538464#2112"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/Classes/InputLayer.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/InputLayer.o1#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/RollingStoneAppDelegate.o /Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138874.403381
+e313138874.634910
+r0
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/RollingStoneAppDelegate.o
+x/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m:13:28: error: HelloWorldScene.h: No such file or directory
+o/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m: In function '-[RollingStoneAppDelegate applicationDidFinishLaunching:]':
+o/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m:112: error: 'HelloWorld' undeclared (first use in this function)
+o/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m:112: error: (Each undeclared identifier is reported only once
+o/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m:112: error: for each function it appears in.)
+lSLF07#2@74"Compile /Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m313138874#313138874#0(641"/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m:13:28: error: HelloWorldScene.h: No such file or directory/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m: In function '-[RollingStoneAppDelegate applicationDidFinishLaunching:]':/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m:112: error: 'HelloWorld' undeclared (first use in this function)/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m:112: error: (Each undeclared identifier is reported only once/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m:112: error: for each function it appears in.)2(4@44"HelloWorldScene.h: No such file or directory313138874#0#126#0(6@66"/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m313136635#13#0#13#0#28"*: No such file or directory0(4@52"'HelloWorld' undeclared (first use in this function)313138874#267#132#0(6@66"/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m313136635#112#0#112#0#43"'*' undeclared (first use in this function)0(0#0#66"/Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m8625176512#2138"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/Classes/RollingStoneAppDelegate.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/RollingStoneAppDelegate.o1#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/RootViewController.o /Users/jari/Desktop/RollingStone/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138874.494784
+e313138874.684372
+r1
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/RootViewController.o
+x/Users/jari/Desktop/RollingStone/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@69"Compile /Users/jari/Desktop/RollingStone/Classes/RootViewController.m313138874#313138874#0(0"0(0#0#61"/Users/jari/Desktop/RollingStone/Classes/RootViewController.m8624873568#2128"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/Classes/RootViewController.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyButton.o /Users/jari/Desktop/RollingStone/Classes/SneakyButton.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138874.635024
+e313138874.929772
+r1
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyButton.o
+x/Users/jari/Desktop/RollingStone/Classes/SneakyButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Users/jari/Desktop/RollingStone/Classes/SneakyButton.m313138874#313138874#0(0"0(0#0#55"/Users/jari/Desktop/RollingStone/Classes/SneakyButton.m7596565896843194368#2116"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/Classes/SneakyButton.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyButton.o0#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyButtonSkinnedBase.o /Users/jari/Desktop/RollingStone/Classes/SneakyButtonSkinnedBase.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138874.684502
+e313138874.885090
+r1
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyButtonSkinnedBase.o
+x/Users/jari/Desktop/RollingStone/Classes/SneakyButtonSkinnedBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@74"Compile /Users/jari/Desktop/RollingStone/Classes/SneakyButtonSkinnedBase.m313138874#313138874#0(0"0(0#0#66"/Users/jari/Desktop/RollingStone/Classes/SneakyButtonSkinnedBase.m8622756544#2138"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/Classes/SneakyButtonSkinnedBase.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyButtonSkinnedBase.o0#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyExtensions.o /Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138874.885319
+e313138875.063200
+r0
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyExtensions.o
+x/Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.m:9:
+o/Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.h:12:32: error: ColoredCircleSprite.h: No such file or directory
+lSLF07#2@67"Compile /Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.m313138874#313138875#0(208"In file included from /Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.m:9:/Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.h:12:32: error: ColoredCircleSprite.h: No such file or directory1(4@48"ColoredCircleSprite.h: No such file or directory313138874#85#123#2(7@81"In file included from /Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.m313138874#18446744073709551615#0#0(6@59"/Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.m303319908#9#0#9#0#0"0(13@111"ColoredCircleSprite.h: No such file or directory in /Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.h313138874#18446744073709551615#0#0(6@59"/Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.h303319908#12#0#12#0#0"0(6@59"/Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.h303319908#12#0#12#0#28"*: No such file or directory0(0#0#59"/Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.m8628169568#2124"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/Classes/SneakyExtensions.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyExtensions.o1#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyJoystick.o /Users/jari/Desktop/RollingStone/Classes/SneakyJoystick.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138874.929877
+e313138875.192316
+r1
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyJoystick.o
+x/Users/jari/Desktop/RollingStone/Classes/SneakyJoystick.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@65"Compile /Users/jari/Desktop/RollingStone/Classes/SneakyJoystick.m313138874#313138875#0(0"0(0#0#57"/Users/jari/Desktop/RollingStone/Classes/SneakyJoystick.m8626849568#2120"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/Classes/SneakyJoystick.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyJoystick.o0#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyJoystickSkinnedBase.o /Users/jari/Desktop/RollingStone/Classes/SneakyJoystickSkinnedBase.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138875.063303
+e313138875.295815
+r1
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyJoystickSkinnedBase.o
+x/Users/jari/Desktop/RollingStone/Classes/SneakyJoystickSkinnedBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@76"Compile /Users/jari/Desktop/RollingStone/Classes/SneakyJoystickSkinnedBase.m313138875#313138875#0(0"0(0#0#68"/Users/jari/Desktop/RollingStone/Classes/SneakyJoystickSkinnedBase.m8625474496#2142"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/Classes/SneakyJoystickSkinnedBase.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SneakyJoystickSkinnedBase.o0#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SpriteBatchesAppDelegate.o /Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138875.192417
+e313138875.450568
+r0
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SpriteBatchesAppDelegate.o
+x/Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m:11:
+o/Users/jari/Desktop/RollingStone/Classes/GameScene.h:11:31: error: ParallaxBackground.h: No such file or directory
+oIn file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.h:12,
+o                 from /Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m:11:
+o/Users/jari/Desktop/RollingStone/Classes/Stone.h:9:24: error: Cocoa/Cocoa.h: No such file or directory
+lSLF07#2@75"Compile /Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m313138875#313138875#0(485"In file included from /Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m:11:/Users/jari/Desktop/RollingStone/Classes/GameScene.h:11:31: error: ParallaxBackground.h: No such file or directoryIn file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.h:12,                 from /Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m:11:/Users/jari/Desktop/RollingStone/Classes/Stone.h:9:24: error: Cocoa/Cocoa.h: No such file or directory2(4@47"ParallaxBackground.h: No such file or directory313138875#94#115#2(7@89"In file included from /Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m313138875#18446744073709551615#0#0(6@67"/Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m302729786#11#0#11#0#0"0(13@103"ParallaxBackground.h: No such file or directory in /Users/jari/Desktop/RollingStone/Classes/GameScene.h313138875#18446744073709551615#0#0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.h313138430#11#0#11#0#0"0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.h313138430#11#0#11#0#28"*: No such file or directory0(4@40"Cocoa/Cocoa.h: No such file or directory313138875#382#103#3(7@89"In file included from /Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m313138875#18446744073709551615#0#0(6@67"/Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m302729786#11#0#11#0#0"0(7@74"In file included from /Users/jari/Desktop/RollingStone/Classes/GameScene.h313138875#18446744073709551615#0#0(6@52"/Users/jari/Desktop/RollingStone/Classes/GameScene.h313138430#12#0#12#0#0"0(13@92"Cocoa/Cocoa.h: No such file or directory in /Users/jari/Desktop/RollingStone/Classes/Stone.h313138875#18446744073709551615#0#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.h313137485#9#0#9#0#0"0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.h313137485#9#0#9#0#28"*: No such file or directory0(0#0#67"/Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m8624972800#2140"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/Classes/SpriteBatchesAppDelegate.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/SpriteBatchesAppDelegate.o1#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/Stone.o /Users/jari/Desktop/RollingStone/Classes/Stone.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138875.295923
+e313138875.445429
+r0
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/Stone.o
+x/Users/jari/Desktop/RollingStone/Classes/Stone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/jari/Desktop/RollingStone/Classes/Stone.m:9:
+o/Users/jari/Desktop/RollingStone/Classes/Stone.h:9:24: error: Cocoa/Cocoa.h: No such file or directory
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:15: warning: '@end' missing in implementation context
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:15: warning: incomplete implementation of class 'Stone'
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:15: warning: method definition for '+stone' not found
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:21: error: reimplementation of class 'Stone'
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m: In function '-[Stone initWithStoneImage]':
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:29: warning: 'NSObject' may not respond to '-initWithSpriteFrameName:'
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:29: warning: (Messages without a matching method signature
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:29: warning: will be assumed to return 'id' and accept
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:29: warning: '...' as arguments.)
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m: In function '-[Stone setPosition:]':
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:56: error: 'contentSize_' undeclared (first use in this function)
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:56: error: (Each undeclared identifier is reported only once
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:56: error: for each function it appears in.)
+o/Users/jari/Desktop/RollingStone/Classes/Stone.m:79: warning: 'NSObject' may not respond to '-setPosition:'
+lSLF07#2@56"Compile /Users/jari/Desktop/RollingStone/Classes/Stone.m313138875#313138875#0(1604"In file included from /Users/jari/Desktop/RollingStone/Classes/Stone.m:9:/Users/jari/Desktop/RollingStone/Classes/Stone.h:9:24: error: Cocoa/Cocoa.h: No such file or directory/Users/jari/Desktop/RollingStone/Classes/Stone.m:15: warning: '@end' missing in implementation context/Users/jari/Desktop/RollingStone/Classes/Stone.m:15: warning: incomplete implementation of class 'Stone'/Users/jari/Desktop/RollingStone/Classes/Stone.m:15: warning: method definition for '+stone' not found/Users/jari/Desktop/RollingStone/Classes/Stone.m:21: error: reimplementation of class 'Stone'/Users/jari/Desktop/RollingStone/Classes/Stone.m: In function '-[Stone initWithStoneImage]':/Users/jari/Desktop/RollingStone/Classes/Stone.m:29: warning: 'NSObject' may not respond to '-initWithSpriteFrameName:'/Users/jari/Desktop/RollingStone/Classes/Stone.m:29: warning: (Messages without a matching method signature/Users/jari/Desktop/RollingStone/Classes/Stone.m:29: warning: will be assumed to return 'id' and accept/Users/jari/Desktop/RollingStone/Classes/Stone.m:29: warning: '...' as arguments.)/Users/jari/Desktop/RollingStone/Classes/Stone.m: In function '-[Stone setPosition:]':/Users/jari/Desktop/RollingStone/Classes/Stone.m:56: error: 'contentSize_' undeclared (first use in this function)/Users/jari/Desktop/RollingStone/Classes/Stone.m:56: error: (Each undeclared identifier is reported only once/Users/jari/Desktop/RollingStone/Classes/Stone.m:56: error: for each function it appears in.)/Users/jari/Desktop/RollingStone/Classes/Stone.m:79: warning: 'NSObject' may not respond to '-setPosition:'9(4@40"Cocoa/Cocoa.h: No such file or directory313138875#74#103#2(7@70"In file included from /Users/jari/Desktop/RollingStone/Classes/Stone.m313138875#18446744073709551615#0#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.m313138008#9#0#9#0#0"0(13@92"Cocoa/Cocoa.h: No such file or directory in /Users/jari/Desktop/RollingStone/Classes/Stone.h313138875#18446744073709551615#0#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.h313137485#9#0#9#0#0"0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.h313137485#9#0#9#0#28"*: No such file or directory0(22@40"'@end' missing in implementation context313138875#177#103#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.m313138008#15#0#15#0#40"'@end' missing in implementation context0(22@42"Incomplete implementation of class 'Stone'313138875#280#105#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.m313138008#15#0#15#0#38"incomplete implementation of class '*'0(22@40"Method definition for '+stone' not found313138875#385#103#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.m313138008#15#0#15#0#35"method definition for '*' not found0(4@33"Reimplementation of class 'Stone'313138875#488#94#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.m313138008#21#0#21#0#0"0(22@57"'NSObject' may not respond to '-initWithSpriteFrameName:'313138875#675#120#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.m313138008#29#0#29#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)313138875#795#108#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.m313138008#29#0#29#0#0"0(4@54"'contentSize_' undeclared (first use in this function)313138875#1177#115#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.m313138008#56#0#56#0#43"'*' undeclared (first use in this function)0(22@45"'NSObject' may not respond to '-setPosition:'313138875#1496#108#0(6@48"/Users/jari/Desktop/RollingStone/Classes/Stone.m313138008#79#0#79#0#26"'*' may not respond to '*'0(0#0#48"/Users/jari/Desktop/RollingStone/Classes/Stone.m8623673728#2102"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/Classes/Stone.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/Stone.o1#
+
+CCompileC build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/main.o /Users/jari/Desktop/RollingStone/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138874.401679
+e313138874.494680
+r1
+xCompileC
+xbuild/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/main.o
+x/Users/jari/Desktop/RollingStone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@47"Compile /Users/jari/Desktop/RollingStone/main.m313138874#313138874#0(0"0(0#0#39"/Users/jari/Desktop/RollingStone/main.m8625348160#2092"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch -c /Users/jari/Desktop/RollingStone/main.m -o /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/Objects-normal/i386/main.o0#
+
+CCopyPlistFile /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/RollingStone.plist Resources/RollingStone.plist
+s313138872.511306
+e313138873.199953
+r1
+xCopyPlistFile
+x/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/RollingStone.plist
+xResources/RollingStone.plist
+lSLF07#2@33"Copy Resources/RollingStone.plist313138872#313138873#0(0"0(0#0#61"/Users/jari/Desktop/RollingStone/Resources/RollingStone.plist8622025792#396"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/RollingStone.plist --outdir /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app0#
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/Default.png Resources/Default.png
+s313138872.505304
+e313138872.523654
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RollingStone.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png313138872#313138872#0(0"0(0#0#54"/Users/jari/Desktop/RollingStone/Resources/Default.png8623119584#466"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jari/Desktop/RollingStone/Resources/Default.png /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app0#
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/Icon-72.png Resources/Icon-72.png
+s313138872.510017
+e313138872.539009
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RollingStone.app/Icon-72.png
+xResources/Icon-72.png
+lSLF07#2@26"Copy Resources/Icon-72.png313138872#313138872#0(0"0(0#0#54"/Users/jari/Desktop/RollingStone/Resources/Icon-72.png8617108032#466"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jari/Desktop/RollingStone/Resources/Icon-72.png /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app0#
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/Icon-Small-50.png Resources/Icon-Small-50.png
+s313138872.509369
+e313138872.529200
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RollingStone.app/Icon-Small-50.png
+xResources/Icon-Small-50.png
+lSLF07#2@32"Copy Resources/Icon-Small-50.png313138872#313138872#0(0"0(0#0#60"/Users/jari/Desktop/RollingStone/Resources/Icon-Small-50.png8622361024#472"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jari/Desktop/RollingStone/Resources/Icon-Small-50.png /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app0#
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/Icon-Small.png Resources/Icon-Small.png
+s313138872.508736
+e313138872.537374
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RollingStone.app/Icon-Small.png
+xResources/Icon-Small.png
+lSLF07#2@29"Copy Resources/Icon-Small.png313138872#313138872#0(0"0(0#0#57"/Users/jari/Desktop/RollingStone/Resources/Icon-Small.png8622480416#469"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jari/Desktop/RollingStone/Resources/Icon-Small.png /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app0#
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+s313138872.508085
+e313138872.535397
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RollingStone.app/Icon-Small@2x.png
+xResources/Icon-Small@2x.png
+lSLF07#2@32"Copy Resources/Icon-Small@2x.png313138872#313138872#0(0"0(0#0#60"/Users/jari/Desktop/RollingStone/Resources/Icon-Small@2x.png8622706336#472"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jari/Desktop/RollingStone/Resources/Icon-Small@2x.png /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app0#
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/Icon.png Resources/Icon.png
+s313138872.506786
+e313138872.533831
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RollingStone.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png313138872#313138872#0(0"0(0#0#51"/Users/jari/Desktop/RollingStone/Resources/Icon.png8622507296#463"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jari/Desktop/RollingStone/Resources/Icon.png /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app0#
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/Icon@2x.png Resources/Icon@2x.png
+s313138872.507418
+e313138872.531173
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RollingStone.app/Icon@2x.png
+xResources/Icon@2x.png
+lSLF07#2@26"Copy Resources/Icon@2x.png313138872#313138872#0(0"0(0#0#54"/Users/jari/Desktop/RollingStone/Resources/Icon@2x.png8622198496#466"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jari/Desktop/RollingStone/Resources/Icon@2x.png /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app0#
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/RollingStone.png Resources/RollingStone.png
+s313138872.584259
+e313138872.611781
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RollingStone.app/RollingStone.png
+xResources/RollingStone.png
+lSLF07#2@31"Copy Resources/RollingStone.png313138872#313138872#0(0"0(0#0#59"/Users/jari/Desktop/RollingStone/Resources/RollingStone.png8621881856#471"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jari/Desktop/RollingStone/Resources/RollingStone.png /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app0#
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/fps_images.png Resources/fps_images.png
+s313138872.506135
+e313138872.526481
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RollingStone.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@29"Copy Resources/fps_images.png313138872#313138872#0(0"0(0#0#57"/Users/jari/Desktop/RollingStone/Resources/fps_images.png8622639232#469"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jari/Desktop/RollingStone/Resources/fps_images.png /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app0#
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/iTunesArtwork Resources/iTunesArtwork
+s313138872.510650
+e313138872.584160
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RollingStone.app/iTunesArtwork
+xResources/iTunesArtwork
+lSLF07#2@28"Copy Resources/iTunesArtwork313138872#313138872#0(0"0(0#0#56"/Users/jari/Desktop/RollingStone/Resources/iTunesArtwork8622093152#468"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jari/Desktop/RollingStone/Resources/iTunesArtwork /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app0#
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/joystick-sheet.png Resources/joystick-sheet.png
+r0
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/joystick-stick.png Resources/joystick-stick.png
+r0
+
+CCpResource build/Debug-iphonesimulator/RollingStone.app/stone.png Resources/stone.png
+r0
+
+CGenerateDSYMFile /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app.dSYM /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/RollingStone
+r0
+
+CLd /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/RollingStone normal i386
+r0
+
+CProcessInfoPlistFile /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Info.plist Resources/Info.plist
+s313138872.468169
+e313138872.505193
+r1
+xProcessInfoPlistFile
+x/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist313138872#313138872#0(0"0(0#0#53"/Users/jari/Desktop/RollingStone/Resources/Info.plist8624887456#473"    cd /Users/jari/Desktop/RollingStone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app/Info.plist0#
+
+CProcessPCH /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch.gch RollingStone_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s313138873.200148
+e313138874.401565
+r1
+xProcessPCH
+x/var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch.gch
+xRollingStone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@34"Precompile RollingStone_Prefix.pch313138873#313138874#0(0"0(0#0#56"/Users/jari/Desktop/RollingStone/RollingStone_Prefix.pch8625729952#1985"    cd /Users/jari/Desktop/RollingStone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-generated-files.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-own-target-headers.hmap -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-all-target-headers.hmap -iquote /Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/RollingStone-project-headers.hmap -Wall -F/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator -I/Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources/i386 -I/Users/jari/Desktop/RollingStone/build/RollingStone.build/Debug-iphonesimulator/RollingStone.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c /Users/jari/Desktop/RollingStone/RollingStone_Prefix.pch -o /var/folders/7j/7jKISoI0GEm-NOYq0+5xak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RollingStone_Prefix-dartlsbpvkyjacbshihejkngtlrj/RollingStone_Prefix.pch.gch0#
+
+CTouch /Users/jari/Desktop/RollingStone/build/Debug-iphonesimulator/RollingStone.app
+r0
+
